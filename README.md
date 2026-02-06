@@ -5,13 +5,16 @@
 🍽️ Atualmente trabalhando no Outback 
 📚 Em constante aprendizado, sempre procurando aprender mais!
 
-### Arquitetura & Princípios
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anaclacp/anaclacp/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anaclacp/anaclacp/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/anaclacp/anaclacp/output/github-contribution-grid-snake.svg">
 </picture>
 <br><br>
+
+
 
 ### Entre em contato!
 <p align="left">
