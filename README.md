@@ -2,7 +2,7 @@
 
 ### Sobre mim
 👨🏻‍🎓 Cursando Nutrição <br>
-🍽️ Atualmente trabalhando no Hotback <br>
+🍽️ Atualmente trabalhando no Outback 
 📚 Em constante aprendizado, sempre procurando aprender mais!
 
 ### Arquitetura & Princípios
