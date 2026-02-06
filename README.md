@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=000000&random=false&width=435&lines=Oi%2C+eu+sou+o+Enzo!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=000000&random=false&width=435&lines=Oi%2C+eu+sou+o+Enzo+%F0%9F%9296)](https://git.io/typing-svg)
 
 ### Sobre mim
 👩🏻‍💻 Cursando Nutrição <br>
@@ -11,5 +11,3 @@
     <img src="https://img.shields.io/badge/-Email-87CEEB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
-
-
