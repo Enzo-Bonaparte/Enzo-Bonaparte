@@ -14,8 +14,6 @@
 </picture>
 <br><br>
 
-
-
 ### Entre em contato!
 <p align="left">
   <a href="mailto:enzocamargobonaparte@gmail.com">
