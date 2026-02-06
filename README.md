@@ -1,16 +1,17 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FFFFFF&random=false&width=435&lines=Oi%2C+eu+sou+eu!)](https://git.io/typing-svg)
 
-<!--
-**Enzo-Bonaparte/Enzo-Bonaparte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Sobre mim
+👩🏻‍💻 Cursando Nutrição <br>
+💻 Atualmente trabalhando como garçom <br>
+📚 Em constante aprendizado, sempre procurando aprender mais!
 
-Here are some ideas to get you started:
+### Entre em contato!
+<p align="left">
+  <a href="mailto:seuemail@dominio.com">
+    <img src="https://img.shields.io/badge/-Email-FAB8D6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/seu-perfil-linkedin/">
+    <img src="https://img.shields.io/badge/-LinkedIn-9C27B0?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
