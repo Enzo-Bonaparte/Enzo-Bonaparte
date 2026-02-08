@@ -16,9 +16,4 @@
 </picture>
 <br><br>
 
-### Entre em contato!
-<p align="left">
-  <a href="mailto:enzocamargobonaparte@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-87CEFA?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+
